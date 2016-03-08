@@ -683,7 +683,9 @@ label {
  *    
  *
  */
-.pricing { }
+.pricing {
+    margin: auto;
+}
   .pricing span {
     margin-right: 20px;
   }
@@ -932,3 +934,8 @@ label {
 
 
 
+
+.map {
+    display: block;
+    margin: auto;
+}
